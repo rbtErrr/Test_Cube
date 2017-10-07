@@ -12,6 +12,7 @@ public class ChangeSize : MonoBehaviour {
     private GameObject thirdPlayer;
 
 
+
     // Use this for initialization
     void Start () {
     }
